@@ -74,7 +74,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "pyscf", specifier = ">=2.12.1" }]
+requires-dist = [{ name = "pyscf", specifier = ">=2.5.0" }]
 
 [[package]]
 name = "numpy"
